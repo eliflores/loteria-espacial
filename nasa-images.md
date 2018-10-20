@@ -56,6 +56,9 @@ This is a composite photo, assembled from separate images of Jupiter and comet S
 Astronomers have used NASA's Hubble Space Telescope to photograph the iconic Horsehead Nebula in a new, infrared light to mark the 23rd anniversary of the famous observatory's launch aboard the space shuttle Discovery on April 24, 1990.
 [Picture](src/assets/images/742882_horsehead.jpg)
 
+##  V838 Mon
+Light Echoes from V838 Mon, what caused this outburst of V838 Mon? For reasons unknown, star V838 Mon's outer surface suddenly greatly expanded with the result that it became the brightest star in the entire Milky Way Galaxy in January 2002. Then, just as suddenly, it faded. A stellar flash like this had never been seen before.
+
 
 
 
