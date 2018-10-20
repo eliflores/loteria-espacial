@@ -3,7 +3,7 @@
 Loteria Espacial is the challenge implemented for [Space Apps Challenge 2018](https://2018.spaceappschallenge.org).
 
 ## Where is the app deployed?
-The app is deployed [here](http://loteriaespacial.herokuapp.com/)
+The app is deployed [here](http://loteriaespacial.herokuapp.com/)c
 
 ## Contributors 
 - [Eli Flores](https://github.com/mignonnesaurus)
@@ -34,5 +34,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## References
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
-[Angular App deployment to Heroku](https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147)
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
+* [Angular App deployment to Heroku](https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147)
