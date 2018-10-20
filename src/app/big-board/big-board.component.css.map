@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACL,OAAO,EAAE,IAAI;;AAGf,eAAgB;EACd,OAAO,EAAE,KAAK",
+"sources": ["big-board.component.scss"],
+"names": [],
+"file": "big-board.component.css"
+}

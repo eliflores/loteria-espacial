@@ -8,6 +8,7 @@ import { HeaderComponent } from './header/header.component';
 import { BoardComponent } from './board/board.component';
 import { PlayLoteriaComponent } from './play-loteria/play-loteria.component';
 import { AboutUsComponent } from './about-us/about-us.component';
+import { BigBoardComponent } from './big-board/big-board.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { AboutUsComponent } from './about-us/about-us.component';
     HeaderComponent,
     BoardComponent,
     PlayLoteriaComponent,
-    AboutUsComponent
+    AboutUsComponent,
+    BigBoardComponent
   ],
   imports: [
     BrowserModule,

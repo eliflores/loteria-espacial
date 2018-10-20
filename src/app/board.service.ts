@@ -17,7 +17,10 @@ export class BoardService {
       this.logger.log(`Fetched ${boards.length} boards.`);
       this.boards.push(...boards); // fill cache
     });
-
     return this.boards;
+  }
+
+  getById(id: Number) {
+    return new Board([]);
   }
 }
