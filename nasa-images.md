@@ -16,7 +16,7 @@ The little-known nebula IRAS 05437+2502 billows out among the bright stars and d
 A Piercing Celestial Eye Stares Back at Hubble.
 [Picture](src/assets/images/potw1015a.jpg)
 
-##Burst of Celestial Fireworks
+## Burst of Celestial Fireworks
 A glittering collection of stars resembles an aerial burst. The cluster is surrounded by clouds of interstellar gas and dust - the raw material for new star formation.
 [Picture](src/assets/images/stsci-gallery-1022a-2000x960.jpg)
 
