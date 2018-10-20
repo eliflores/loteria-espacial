@@ -29,5 +29,9 @@ Arp 299 is a system located about 140 million light years from Earth. It contain
 [Picture](src/assets/images/arp299.jpg)
 
 ## Galaxy NGC 1569
-This NASA/ESA Hubble Space Telescope image reveals the iridescent interior of one of the most active galaxies in our local neighborhood — NGC 1569 is currently a hotbed of vigorous star formation.
+This NASA/ESA Hubble Space Telescope image reveals the iridescent interior of one of the most active galaxies in our local neighborhood: NGC 1569 is currently a hotbed of vigorous star formation.
+[Picture](src/assets/images/hubble_friday_07012016.jpg)
+
+##  Red Spider Nebula
+Huge waves are sculpted in this two-lobed nebula called the Red Spider Nebula, located some 3,000 light-years away in the constellation of Sagittarius. 
 [Picture](src/assets/images/hubble_friday_07012016.jpg)
