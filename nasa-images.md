@@ -42,6 +42,6 @@ This is a composite image of Uranus by Voyager 2 and two different observations 
 
 ## Star Death in “Rotten Egg” Nebula
 The Calabash Nebula, pictured here is a spectacular example of the death of a low-mass star like the sun.
-[Picture](src/assets/images/potw1705a.jpg) 
+[Picture](src/assets/images/potw1705a.jpg)
 
 
