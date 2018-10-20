@@ -7,7 +7,7 @@ The app is deployed [here](http://loteriaespacial.herokuapp.com/)c
 
 ## Contributors 
 - [Eli Flores](https://github.com/mignonnesaurus)
-- Isabel Flores 
+- Isabel Flores(https://github.com/astroisa)
 
 ## Development server
 
