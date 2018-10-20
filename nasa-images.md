@@ -68,14 +68,19 @@ NASA Hubble Sees Sparring Antennae Galaxies.
 The bright clusters and nebulae of planet Earth's night sky are often named for flowers or insects. Though its wingspan covers over 3 light-years, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the dying central star of this particular planetary nebula has become exceptionally hot.
 [Picture](src/assets/images/754349_butterfly_nebula.jpg)
 
-# Spiral galaxy NGC 7331
+## Spiral galaxy NGC 7331
 This image from the NASA / ESA Hubble Space Telescope shows a spiral galaxy known as NGC 7331 located in the constellation Pegasus.
 [Picture](src/assets/images/potw1805a.jpg)
 
-# The Eagle Nebula
+## The Eagle Nebula
 Appearing like a winged fairy-tale creature poised on a pedestal, this object is actually a billowing tower of cold gas and dust rising in the Eagle Nebula. The soaring pillar is 9.5 light-years, or about 57 trillion miles, high, about twice the distance from our Sun to the nearest star.
 [Picture](src/assets/images/eagle_nebula.jpg)
 
-# Stingray Nebula
+## Stingray Nebula
 The Hubble Space Telescope captured this image of the Stingray Nebula, the youngest known planetary nebula. In this image, the bright central star is in the middle of the green ring of gas. Its companion star is diagonally above it at 10 o'clock.
 [Picture](src/assets/images/stingray_nebula.jpg)
+
+## Cat's Eye Nebula
+Three thousand light-years away, the Cat's Eye Nebula, a dying star throws off shells of glowing gas. This image from the Hubble Space Telescope reveals the nebula to be one of the most complex planetary nebulae known.
+[Picture](src/assets/images/cat's_eyenebula.jpg)
+
