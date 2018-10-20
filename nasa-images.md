@@ -116,3 +116,7 @@ In the center of this image, taken with the NASA / ESA Hubble Space Telescope, i
 NGC 7814 is also known as the “Little Sombrero.” It and its apparently-larger namesake, the Sombrero, are stunning edge-on galaxies.
 [Picture](src/assets/images/littlesombrero.jpg)
 
+## 'El gordo' Galaxy
+NASA's Hubble Space Telescope has weighed the largest known galaxy cluster in the distant universe, catalogued as ACT-CL J0102-4915, and found it definitely lives up to its nickname -- El Gordo.
+[Picture](src/assets/images/elgordo.jpg)
+
