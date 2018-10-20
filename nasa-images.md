@@ -72,5 +72,6 @@ The bright clusters and nebulae of planet Earth's night sky are often named for 
 This image from the NASA / ESA Hubble Space Telescope shows a spiral galaxy known as NGC 7331 located in the constellation Pegasus.
 [Picture](src/assets/images/potw1805a.jpg)
 
-
-
+# The Eagle Nebula
+Appearing like a winged fairy-tale creature poised on a pedestal, this object is actually a billowing tower of cold gas and dust rising in the Eagle Nebula. The soaring pillar is 9.5 light-years, or about 57 trillion miles, high, about twice the distance from our Sun to the nearest star.
+[Picture](src/assets/images/eagle_nebula.jpg)
