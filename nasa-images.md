@@ -98,5 +98,5 @@ Bright, frosty polar caps, and clouds above a vivid, rust-colored landscape reve
 
 ## Distant Quasar RX J1131
 A very bright object in space that is similar to a star and very far away from Earth. A quasar gives off powerful radio waves.
-[Picture](src/assets/images/quasar.jpg)
+[Picture](src/assets/images/quasar.jpg) 
 
