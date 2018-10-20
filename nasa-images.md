@@ -24,4 +24,7 @@ A glittering collection of stars resembles an aerial burst. The cluster is surro
 This is an image of the Cartwheel Galaxy taken with the NASA/ESA Hubble Space Telescope. 
 [Picture](src/assets/images/potw1036a.jpg)
 
+## Chandra Samples Galactic Goulash
+Arp 299 is a system located about 140 million light years from Earth. It contains two galaxies that are merging, creating a partially blended mix of stars from each galaxy.
+[Picture]((src/assets/images/arp299.jpg)
  
