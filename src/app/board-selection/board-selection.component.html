@@ -1,6 +1,8 @@
-<h2>Board Selection</h2>
+<div class="container">
+  <h2>Board Selection</h2>
 
-<p>Pick a board to get started</p>
-<div *ngFor="let board of boards" (click)="selectBoard(board)">
-<app-board [board]="board"></app-board>
+  <p>Pick a board to get started</p>
+  <div *ngFor="let board of boards" (click)="selectBoard(board)">
+    <app-board [board]="board"></app-board>
+  </div>
 </div>
