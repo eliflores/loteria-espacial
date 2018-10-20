@@ -120,3 +120,7 @@ NGC 7814 is also known as the “Little Sombrero.” It and its apparently-large
 NASA's Hubble Space Telescope has weighed the largest known galaxy cluster in the distant universe, catalogued as ACT-CL J0102-4915, and found it definitely lives up to its nickname -- El Gordo.
 [Picture](src/assets/images/elgordo.jpg)
 
+## Crab Nebula
+Esta imagen muestra una vista compuesta de la nebulosa Cangrejo, un remanente de supernova icónica en nuestra galaxia Vía Láctea, tal como lo ve el Observatorio Espacial Herschel y el Telescopio Espacial Hubble.
+[Picture](src/assets/images/crabnebula.jpg)
+
