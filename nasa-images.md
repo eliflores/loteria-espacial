@@ -44,4 +44,9 @@ This is a composite image of Uranus by Voyager 2 and two different observations 
 The Calabash Nebula, pictured here is a spectacular example of the death of a low-mass star like the sun.
 [Picture](src/assets/images/potw1705a.jpg)
 
+## Hubble View: Smoke Ring for a Halo
+Two stars shine through the center of a ring of cascading dust in star system is named DI Cha.
+[Picture](src/assets/images/hubble_friday_10302015.jpg)
+
+
 
