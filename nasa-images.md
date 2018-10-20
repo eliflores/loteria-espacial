@@ -132,5 +132,6 @@ This stellar relic, first spied by William Herschel in 1787, is nicknamed the Es
 The distinctive blue bubble appearing to encircle WR 31a is a Wolf–Rayet nebula — an interstellar cloud of dust, hydrogen, helium and other gases. Created when speedy stellar winds interact with the outer layers of hydrogen ejected by Wolf–Rayet stars, these nebulae are frequently ring-shaped or spherical.
 [Picture](src/assets/images/burbuja.jpg)
 
-
-
+## Cosmic Pearls
+Two decades ago, astronomers spotted one of the brightest exploding stars in more than 400 years. Since that first sighting, the doomed star, called Supernova 1987A, has continued to fascinate astronomers with its spectacular light show.
+[Picture](src/assets/images/pearls.jpg)
