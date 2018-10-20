@@ -40,7 +40,7 @@ export class BackendService {
       new Board([
         [this.cards[22], this.cards[26], this.cards[13], this.cards[9]],
         [this.cards[14], this.cards[6], this.cards[15], this.cards[3]],
-        [this.cards[31], this.cards[13], this.cards[20], this.cards[12]],
+        [this.cards[31], this.cards[11], this.cards[20], this.cards[12]],
         [this.cards[14], this.cards[19], this.cards[2], this.cards[5]]]),
       new Board([
         [this.cards[14], this.cards[1], this.cards[27], this.cards[19]],
@@ -50,10 +50,10 @@ export class BackendService {
       new Board([
         [this.cards[8], this.cards[12], this.cards[20], this.cards[2]],
         [this.cards[31], this.cards[29], this.cards[23], this.cards[5]],
-        [this.cards[26], this.cards[2], this.cards[3], this.cards[8]],
+        [this.cards[26], this.cards[12], this.cards[3], this.cards[18]],
         [this.cards[15], this.cards[14], this.cards[7], this.cards[11]]]),
       new Board([
-        [this.cards[13], this.cards[13], this.cards[10], this.cards[2]],
+        [this.cards[3], this.cards[13], this.cards[10], this.cards[2]],
         [this.cards[9], this.cards[4], this.cards[21], this.cards[32]],
         [this.cards[23], this.cards[15], this.cards[17], this.cards[27]],
         [this.cards[29], this.cards[18], this.cards[0], this.cards[20]]]),
