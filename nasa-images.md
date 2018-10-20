@@ -27,4 +27,7 @@ This is an image of the Cartwheel Galaxy taken with the NASA/ESA Hubble Space Te
 ## Chandra Samples Galactic Goulash
 Arp 299 is a system located about 140 million light years from Earth. It contains two galaxies that are merging, creating a partially blended mix of stars from each galaxy.
 [Picture](src/assets/images/arp299.jpg)
- 
+
+## Galaxy NGC 1569
+This NASA/ESA Hubble Space Telescope image reveals the iridescent interior of one of the most active galaxies in our local neighborhood — NGC 1569 is currently a hotbed of vigorous star formation.
+[Picture](src/assets/images/hubble_friday_07012016.jpg)
