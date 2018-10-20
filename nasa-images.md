@@ -100,3 +100,6 @@ Bright, frosty polar caps, and clouds above a vivid, rust-colored landscape reve
 A very bright object in space that is similar to a star and very far away from Earth. A quasar gives off powerful radio waves.
 [Picture](src/assets/images/quasar.jpg) 
 
+## Einstein Ring
+These graceful arcs are a cosmic phenomenon known as an Einstein ring - created as the light from distant galaxies warps around an extremely large mass, like a galaxy cluster.
+[Picture](src/assets/images/einsteinring.jpg) 
