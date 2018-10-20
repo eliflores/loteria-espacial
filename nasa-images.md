@@ -75,3 +75,7 @@ This image from the NASA / ESA Hubble Space Telescope shows a spiral galaxy know
 # The Eagle Nebula
 Appearing like a winged fairy-tale creature poised on a pedestal, this object is actually a billowing tower of cold gas and dust rising in the Eagle Nebula. The soaring pillar is 9.5 light-years, or about 57 trillion miles, high, about twice the distance from our Sun to the nearest star.
 [Picture](src/assets/images/eagle_nebula.jpg)
+
+# Stingray Nebula
+The Hubble Space Telescope captured this image of the Stingray Nebula, the youngest known planetary nebula. In this image, the bright central star is in the middle of the green ring of gas. Its companion star is diagonally above it at 10 o'clock.
+[Picture](src/assets/images/stringay_nebula.jpg)
