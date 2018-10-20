@@ -103,3 +103,8 @@ A very bright object in space that is similar to a star and very far away from E
 ## Einstein Ring
 These graceful arcs are a cosmic phenomenon known as an Einstein ring - created as the light from distant galaxies warps around an extremely large mass, like a galaxy cluster.
 [Picture](src/assets/images/einsteinring.jpg) 
+
+## Stormy Seas in Sagittarius
+This new NASA/ESA Hubble Space Telescope image shows the center of the Lagoon Nebula, an object with a deceptively tranquil name, in the constellation of Sagittarius. The region is filled with intense winds from hot stars, churning funnels of gas, and energetic star formation, all embedded within an intricate haze of gas and pitch-dark dust.
+[Picture](src/assets/images/heic1517a_0.jpg)
+
