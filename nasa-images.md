@@ -54,7 +54,7 @@ This is a composite photo, assembled from separate images of Jupiter and comet S
 
 ##  Horsehead Nebula
 Astronomers have used NASA's Hubble Space Telescope to photograph the iconic Horsehead Nebula in a new, infrared light to mark the 23rd anniversary of the famous observatory's launch aboard the space shuttle Discovery on April 24, 1990.
-[Picture](src/assets/images/74882_horsehead.jpg)
+[Picture](src/assets/images/742882_horsehead.jpg)
 
 
 
