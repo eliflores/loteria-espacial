@@ -92,3 +92,6 @@ Where is the center of the Egg Nebula? Like a baby chick pecking its way out of 
 The Hubble Space Telescope has "caught" the Boomerang Nebula in these new images taken with the Advanced Camera for Surveys. This reflecting cloud of dust and gas has two nearly symmetric lobes (or cones) of matter that are being ejected from a central star.
 [Picture](src/assets/images/boomerangnebula.jpg)
 
+## Mars
+Bright, frosty polar caps, and clouds above a vivid, rust-colored landscape reveal Mars as a dynamic seasonal planet in this NASA Hubble Space Telescope view taken on May 12, 2016. 
+[Picture](src/assets/images/mars.jpg)
