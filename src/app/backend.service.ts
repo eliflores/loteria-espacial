@@ -12,7 +12,7 @@ const CARDS = [
 
 const card = CARDS[0];
 const BOARDS = [
-  new Board([card, card, card, card, card])
+  new Board([[card, card, card, card], [card, card, card, card], [card, card, card, card], [card, card, card, card]])
 ];
 
 @Injectable({

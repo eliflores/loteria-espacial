@@ -1,8 +1,6 @@
 <h2>Board Selection</h2>
 
-<p><i>Pick a board to get started 🤩</i></p>
+<p>Pick a board to get started</p>
 <div *ngFor="let board of boards" (click)="selectBoard(board)">
-  <div *ngFor="let card of board.cards">
-    <img src="assets/images/{{card.imageName}}" height="200" width="150" title="{{card.name}}">
-  </div>
+<app-board [board]="board"></app-board>
 </div>

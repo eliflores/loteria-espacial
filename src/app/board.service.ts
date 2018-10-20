@@ -14,7 +14,7 @@ export class BoardService {
 
   getBoards() {
     this.backend.getAll(Board).then((boards: Board[]) => {
-      this.logger.log(`Fetched ${boards.length} heroes.`);
+      this.logger.log(`Fetched ${boards.length} boards.`);
       this.boards.push(...boards); // fill cache
     });
 

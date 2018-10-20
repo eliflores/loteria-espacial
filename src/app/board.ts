@@ -5,7 +5,7 @@ let nextId = 1;
 export class Board {
   id: number;
   constructor(
-    public cards: Array<Card>) {
+    public cards: Array<Array<Card>>) {
     this.id = nextId++;
   }
 }
