@@ -128,4 +128,9 @@ Esta imagen muestra una vista compuesta de la nebulosa Cangrejo, un remanente de
 This stellar relic, first spied by William Herschel in 1787, is nicknamed the Eskimo Nebula (NGC 2392) because, when viewed through ground-based telescopes, it resembles a face surrounded by a fur parka. 
 [Picture](src/assets/images/eskimo.jpg)
 
+## Hubble's Blue Bubble
+The distinctive blue bubble appearing to encircle WR 31a is a Wolf–Rayet nebula — an interstellar cloud of dust, hydrogen, helium and other gases. Created when speedy stellar winds interact with the outer layers of hydrogen ejected by Wolf–Rayet stars, these nebulae are frequently ring-shaped or spherical.
+[Picture](src/assets/images/burbuja.jpg)
+
+
 
