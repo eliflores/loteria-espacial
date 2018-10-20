@@ -126,6 +126,6 @@ Esta imagen muestra una vista compuesta de la nebulosa Cangrejo, un remanente de
 
 ## Eskimo Nebula
 This stellar relic, first spied by William Herschel in 1787, is nicknamed the Eskimo Nebula (NGC 2392) because, when viewed through ground-based telescopes, it resembles a face surrounded by a fur parka. 
-[Picture](src/assets/images/skimo.jpg)
+[Picture](src/assets/images/eskimo.jpg)
 
 
