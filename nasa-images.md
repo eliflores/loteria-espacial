@@ -68,5 +68,9 @@ NASA Hubble Sees Sparring Antennae Galaxies.
 The bright clusters and nebulae of planet Earth's night sky are often named for flowers or insects. Though its wingspan covers over 3 light-years, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the dying central star of this particular planetary nebula has become exceptionally hot.
 [Picture](src/assets/images/754349_butterfly_nebula.jpg)
 
+# Spiral galaxy NGC 7331
+This image from the NASA / ESA Hubble Space Telescope shows a spiral galaxy known as NGC 7331 located in the constellation Pegasus.
+[Picture](src/assets/images/potw1805.jpg)
+
 
 
