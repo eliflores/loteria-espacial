@@ -95,3 +95,8 @@ The Hubble Space Telescope has "caught" the Boomerang Nebula in these new images
 ## Mars
 Bright, frosty polar caps, and clouds above a vivid, rust-colored landscape reveal Mars as a dynamic seasonal planet in this NASA Hubble Space Telescope view taken on May 12, 2016. 
 [Picture](src/assets/images/mars.jpg)
+
+## Distant Quasar RX J1131
+A very bright object in space that is similar to a star and very far away from Earth. A quasar gives off powerful radio waves.
+[Picture](src/assets/images/quasar.jpg)
+
