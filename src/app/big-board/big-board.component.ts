@@ -8,7 +8,7 @@ import {BoardService} from '../board.service';
   styleUrls: ['./big-board.component.scss']
 })
 export class BigBoardComponent implements OnInit {
-  private board: Board;
+  public board: Board;
 
   constructor(private boardService: BoardService) {
   }
