@@ -22,6 +22,6 @@ A glittering collection of stars resembles an aerial burst. The cluster is surro
 
 ## Hubble’s Cartwheel
 This is an image of the Cartwheel Galaxy taken with the NASA/ESA Hubble Space Telescope. 
-[Picture](src/assets/images/.jpg)
+[Picture](src/assets/images/potw1036a.jpg)
 
  
