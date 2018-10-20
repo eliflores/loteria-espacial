@@ -108,3 +108,8 @@ These graceful arcs are a cosmic phenomenon known as an Einstein ring - created 
 This new NASA/ESA Hubble Space Telescope image shows the center of the Lagoon Nebula, an object with a deceptively tranquil name, in the constellation of Sagittarius. The region is filled with intense winds from hot stars, churning funnels of gas, and energetic star formation, all embedded within an intricate haze of gas and pitch-dark dust.
 [Picture](src/assets/images/heic1517a_0.jpg)
 
+## Cumulus of smiling galaxies
+In the center of this image, taken with the NASA / ESA Hubble Space Telescope, is the galaxy cluster SDSS J1038 + 4849 - and it seems to be smiling. 
+[Picture](src/assets/images/smilling.jpg)
+
+
