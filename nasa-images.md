@@ -124,3 +124,8 @@ NASA's Hubble Space Telescope has weighed the largest known galaxy cluster in th
 Esta imagen muestra una vista compuesta de la nebulosa Cangrejo, un remanente de supernova icónica en nuestra galaxia Vía Láctea, tal como lo ve el Observatorio Espacial Herschel y el Telescopio Espacial Hubble.
 [Picture](src/assets/images/crabnebula.jpg)
 
+## Eskimo Nebula
+This stellar relic, first spied by William Herschel in 1787, is nicknamed the Eskimo Nebula (NGC 2392) because, when viewed through ground-based telescopes, it resembles a face surrounded by a fur parka. 
+[Picture](src/assets/images/skimo.jpg)
+
+
