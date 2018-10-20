@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,MAAO;EACL,MAAM,EAAE,iBAAiB;EACzB,OAAO,EAAE,GAAG",
+"mappings": "AAAA,MAAO;EACL,OAAO,EAAE,GAAG",
 "sources": ["board.component.scss"],
 "names": [],
 "file": "board.component.css"

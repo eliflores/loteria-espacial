@@ -2,7 +2,27 @@
   <h2>Board Selection</h2>
 
   <p>Pick a board to get started</p>
-  <div *ngFor="let board of boards" (click)="selectBoard(board)">
-    <app-board [board]="board"></app-board>
+  <div class="row">
+    <div class="col" *ngFor="let board of boards.splice(0,3)" (click)="selectBoard(board)">
+      <app-board [board]="board"></app-board>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col" *ngFor="let board of boards.splice(0,3)" (click)="selectBoard(board)">
+      <app-board [board]="board"></app-board>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col" *ngFor="let board of boards.splice(0,3)" (click)="selectBoard(board)">
+      <app-board [board]="board"></app-board>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col" *ngFor="let board of boards.splice(0,3)" (click)="selectBoard(board)">
+      <app-board [board]="board"></app-board>
+    </div>
   </div>
 </div>
