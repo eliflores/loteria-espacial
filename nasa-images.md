@@ -112,4 +112,7 @@ This new NASA/ESA Hubble Space Telescope image shows the center of the Lagoon Ne
 In the center of this image, taken with the NASA / ESA Hubble Space Telescope, is the galaxy cluster SDSS J1038 + 4849 - and it seems to be smiling. 
 [Picture](src/assets/images/smilling.jpg)
 
+## Hubble's Little Sombrero
+NGC 7814 is also known as the “Little Sombrero.” It and its apparently-larger namesake, the Sombrero, are stunning edge-on galaxies.
+[Picture](src/assets/images/littlesombrero.jpg)
 
