@@ -14,7 +14,7 @@ The little-known nebula IRAS 05437+2502 billows out among the bright stars and d
 
 ## Nebula NGC 3918.
 A Piercing Celestial Eye Stares Back at Hubble.
-[Picture](src/assets/images/potw1015a.jpg
+[Picture](src/assets/images/potw1015a.jpg)
 
 
  
