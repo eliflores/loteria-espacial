@@ -65,11 +65,6 @@
     "imageName": "743610main.jpg"
   },
     {
-    "name": "",
-    "description": "",
-    "imageName": ""
-  },
-    {
     "name": "Horsehead Nebula",
     "description": "Astronomers have used NASA's Hubble Space Telescope to photograph the iconic Horsehead Nebula in a new, infrared light to mark the 23rd anniversary of the famous observatory's launch aboard the space shuttle Discovery on April 24, 1990.",
     "imageName": "742882_horsehead.jpg"
@@ -98,11 +93,6 @@
     "name": "The Eagle Nebula",
     "description": "Appearing like a winged fairy-tale creature poised on a pedestal, this object is actually a billowing tower of cold gas and dust rising in the Eagle Nebula. The soaring pillar is 9.5 light-years, or about 57 trillion miles, high, about twice the distance from our Sun to the nearest star.",
     "imageName": "eagle_nebula.jpg"
-  },
-    {
-    "name": "",
-    "description": "",
-    "imageName": ""
   },
     {
     "name": "Stingray Nebula",
@@ -178,5 +168,5 @@
     "name": "Cosmic Pearls",
     "description": "Two decades ago, astronomers spotted one of the brightest exploding stars in more than 400 years. Since that first sighting, the doomed star, called Supernova 1987A, has continued to fascinate astronomers with its spectacular light show.",
     "imageName": "pearls.jpg"
-  },
+  }
 ]
