@@ -12,9 +12,12 @@ This image of distant interacting galaxies, known collectively as Arp 142, bears
 The little-known nebula IRAS 05437+2502 billows out among the bright stars and dark dust clouds that surround it.
 [Picture](src/assets/images/potw1008a.jpg) 
 
-## Nebula NGC 3918.
+## Nebula NGC 3918
 A Piercing Celestial Eye Stares Back at Hubble.
 [Picture](src/assets/images/potw1015a.jpg)
 
+##Burst of Celestial Fireworks
+A glittering collection of stars resembles an aerial burst. The cluster is surrounded by clouds of interstellar gas and dust - the raw material for new star formation.
+[Picture](src/assets/images/stsci-gallery-1022a-2000x960.jpg)
 
  
