@@ -19,5 +19,5 @@ export class BoardSelectionComponent implements OnInit {
     this.boards = this.boardService.getBoards();
   }
 
-  selectedBoard(board: Board) { this.selectedBoard = board; }
+  selectBoard(board: Board) { this.selectedBoard = board; }
 }

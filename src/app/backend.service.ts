@@ -5,29 +5,15 @@ import {Board} from './board';
 import {Card} from './card';
 
 const CARDS = [
-  new Card('Hubble Spies Glittering Star Cluster in Nearby Galaxy', 'This glittering ball of stars is the globular cluster NGC 1898, which lies toward the center of the Large Magellanic Cloud.', 'potw1840a.jpg')
+  new Card('Hubble Spies Glittering Star Cluster in Nearby Galaxy',
+    'This glittering ball of stars is the globular cluster NGC 1898, which lies toward the center of the Large Magellanic Cloud.',
+    'potw1840a.jpg')
 ];
 
+const card = CARDS[0];
 const BOARDS = [
-  new Board([
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0],
-    CARDS[0]
-  ]);
+  new Board([card, card, card, card, card])
+];
 
 @Injectable({
   providedIn: 'root'
