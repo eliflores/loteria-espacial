@@ -88,3 +88,7 @@ Three thousand light-years away, the Cat's Eye Nebula, a dying star throws off s
 Where is the center of the Egg Nebula? Like a baby chick pecking its way out of an egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star.
 [Picture](src/assets/images/eggnebula.jpg)
 
+## Boomerang Nebula
+The Hubble Space Telescope has "caught" the Boomerang Nebula in these new images taken with the Advanced Camera for Surveys. This reflecting cloud of dust and gas has two nearly symmetric lobes (or cones) of matter that are being ejected from a central star.
+[Picture](src/assets/images/boomerangnebula.jpg)
+
