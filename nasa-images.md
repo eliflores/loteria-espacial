@@ -48,5 +48,12 @@ The Calabash Nebula, pictured here is a spectacular example of the death of a lo
 Two stars shine through the center of a ring of cascading dust in star system is named DI Cha.
 [Picture](src/assets/images/hubble_friday_10302015.jpg)
 
+## Comet Shoemaker-Levy 9 and Jupiter 
+This is a composite photo, assembled from separate images of Jupiter and comet Shoemaker-Levy 9, as imaged by the NASA/ESA Hubble Space Telescope in 1994.
+[Picture](src/assets/images/743610main.jpg)
+
+
+
+
 
 
