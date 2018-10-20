@@ -10,6 +10,7 @@ This image of distant interacting galaxies, known collectively as Arp 142, bears
 
 ## Nebula IRAS 05437+2502 
 The little-known nebula IRAS 05437+2502 billows out among the bright stars and dark dust clouds that surround it.
+[Picture](src/assets/images/potw1008.jpg) 
 
 
  
