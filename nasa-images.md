@@ -35,3 +35,7 @@ This NASA/ESA Hubble Space Telescope image reveals the iridescent interior of on
 ##  Red Spider Nebula
 Huge waves are sculpted in this two-lobed nebula called the Red Spider Nebula, located some 3,000 light-years away in the constellation of Sagittarius. 
 [Picture](src/assets/images/heic0109a.jpg)
+
+## Hubble Spots Auroras on Uranus
+This is a composite image of Uranus by Voyager 2 and two different observations made by Hubble — one for the ring and one for the auroras.
+[Picture](src/assets/images/potw1714a.jpg)
