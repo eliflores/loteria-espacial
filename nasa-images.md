@@ -84,3 +84,7 @@ The Hubble Space Telescope captured this image of the Stingray Nebula, the young
 Three thousand light-years away, the Cat's Eye Nebula, a dying star throws off shells of glowing gas. This image from the Hubble Space Telescope reveals the nebula to be one of the most complex planetary nebulae known.
 [Picture](src/assets/images/cat's_eyenebula.jpg)
 
+## The Egg Nebula
+Where is the center of the Egg Nebula? Like a baby chick pecking its way out of an egg, the star in the center of the Egg Nebula is casting away shells of gas and dust as it slowly transforms itself into a white dwarf star.
+[Picture](src/assets/images/eggnebula.jpg)
+
