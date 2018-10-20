@@ -64,5 +64,9 @@ Light Echoes from V838 Mon, what caused this outburst of V838 Mon? For reasons u
 NASA Hubble Sees Sparring Antennae Galaxies.
 [Picture](src/assets/images/potw1345a.jpg)
 
+## The Butterfly Nebula
+The bright clusters and nebulae of planet Earth's night sky are often named for flowers or insects. Though its wingspan covers over 3 light-years, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the dying central star of this particular planetary nebula has become exceptionally hot.
+[Picture](src/assets/images/754349_butterfly_nebula.jpg)
+
 
 
