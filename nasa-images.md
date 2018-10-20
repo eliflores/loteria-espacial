@@ -70,7 +70,7 @@ The bright clusters and nebulae of planet Earth's night sky are often named for 
 
 # Spiral galaxy NGC 7331
 This image from the NASA / ESA Hubble Space Telescope shows a spiral galaxy known as NGC 7331 located in the constellation Pegasus.
-[Picture](src/assets/images/potw1805.jpg)
+[Picture](src/assets/images/potw1805a.jpg)
 
 
 
