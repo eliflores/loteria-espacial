@@ -39,3 +39,9 @@ Huge waves are sculpted in this two-lobed nebula called the Red Spider Nebula, l
 ## Hubble Spots Auroras on Uranus
 This is a composite image of Uranus by Voyager 2 and two different observations made by Hubble — one for the ring and one for the auroras.
 [Picture](src/assets/images/potw1714a.jpg)
+
+## Star Death in “Rotten Egg” Nebula
+The Calabash Nebula, pictured here is a spectacular example of the death of a low-mass star like the sun.
+[Picture](src/assets/images/potw1705a.jpg)
+
+
