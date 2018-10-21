@@ -37,3 +37,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 * [Angular App deployment to Heroku](https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147)
 * [Subtle Patters by Toptal](https://www.toptal.com/designers/subtlepatterns/)
+
+## What is next? 
+* Add validation to the cards tha the user selects. 
+* Disable _Next Card_ button when user already won. 
