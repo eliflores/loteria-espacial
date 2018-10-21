@@ -1,8 +1,10 @@
 <div>
   <div class="current-card">
-    <img class="board-card-img" src="assets/images/{{currentCard.imageName}}" height="300" width="250" title="{{currentCard.description}}">
-    <p>{{currentCard.name}}</p>
+    <img class="board-card-img" src="assets/images/{{currentCard.imageName}}" height="300" width="250"
+         title="{{currentCard.description}}">
+    <div class="card-name">{{currentCard.name}}</div>
   </div>
-  <button type="button" class="btn btn-primary" (click)="nextCard()">Next Card!</button>
+  <button type="button" class="btn btn-primary next-card-btn" (click)="nextCard()" disabled="{{thereAreRemainingCards}}">Next Card!</button>
+  <div *ngIf="thereAreRemainingCards" class="no-more-cards-msg">Woops! There are no more cards available 🚀️</div>
 </div>
 

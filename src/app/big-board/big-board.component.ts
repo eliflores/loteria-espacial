@@ -18,7 +18,8 @@ export class BigBoardComponent implements OnInit {
     this.board = this.boardService.getById(this.boardId);
   }
 
-   changeStyle(event: MouseEvent) {
-    event.target.attributes.class.value = `${event.target.attributes.class.value} selected-card`;
+  changeStyle(event: MouseEvent) {
+    const element = event.target as HTMLImageElement;
+    element.attributes['class'].value = `${element.attributes['class'].value} selected-card`;
   }
 }

@@ -1,7 +1,7 @@
 <div class="container">
   <h2>Board Selection</h2>
 
-  <p>Pick a board to get started</p>
+  <h5>Pick a board to get started</h5>
   <div class="row">
     <div class="col" *ngFor="let board of boards.splice(0,3)" (click)="selectBoard(board)">
       <app-board [board]="board"></app-board>

@@ -43,7 +43,7 @@ export class BackendService {
         [this.cards[31], this.cards[11], this.cards[20], this.cards[12]],
         [this.cards[21], this.cards[19], this.cards[2], this.cards[5]]]),
       new Board([
-        [this.cards[14], this.cards[1], this.cards[27], this.cards[19]],
+        [this.cards[14], this.cards[1], this.cards[27], this.cards[33]],
         [this.cards[28], this.cards[5], this.cards[6], this.cards[20]],
         [this.cards[30], this.cards[9], this.cards[26], this.cards[11]],
         [this.cards[19], this.cards[31], this.cards[13], this.cards[7]]]),
