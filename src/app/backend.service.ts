@@ -10,7 +10,7 @@ const nasaImages = require('./nasa-images.json');
   providedIn: 'root'
 })
 export class BackendService {
-  private readonly static cards: Card[] = nasaImages.map(nasaImage => {
+  private static readonly cards: Card[] = nasaImages.map(nasaImage => {
     return new Card(nasaImage.name, nasaImage.description, nasaImage.imageName);
   });
   private readonly boards: Board[] = [];
