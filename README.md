@@ -36,3 +36,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## References
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 * [Angular App deployment to Heroku](https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147)
+* [Subtle Patters by Toptal](https://www.toptal.com/designers/subtlepatterns/)
