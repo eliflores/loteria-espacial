@@ -3,7 +3,7 @@
 Loteria Espacial is the challenge implemented for [Space Apps Challenge 2018](https://2018.spaceappschallenge.org).
 
 ## Where is the app deployed?
-The app is deployed [here](http://loteriaespacial.herokuapp.com/)c
+The app is deployed [here](http://loteriaespacial.herokuapp.com/).
 
 ## Contributors 
 - [Eli Flores](https://github.com/mignonnesaurus)
@@ -41,3 +41,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## What is next? 
 * Add validation to the cards tha the user selects. 
 * Disable _Next Card_ button when user already won. 
+* Add tests! :) 
