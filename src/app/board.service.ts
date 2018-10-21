@@ -10,17 +10,20 @@ export class BoardService {
   private boards: Board[] = [];
 
   constructor(private backend: BackendService, private logger: Logger) {
-  }
-
-  getBoards() {
     this.backend.getAll(Board).then((boards: Board[]) => {
       this.logger.log(`Fetched ${boards.length} boards.`);
       this.boards.push(...boards); // fill cache
     });
+  }
+
+  getBoards() {
     return this.boards;
   }
 
   getById(id: Number) {
-    return new Board([]);
+    const boards = this.getBoards();
+    return boards.find((board: Board) => {
+      return board.id === id;
+    });
   }
 }

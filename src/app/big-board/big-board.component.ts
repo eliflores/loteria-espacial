@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {Board} from '../board';
 import {BoardService} from '../board.service';
 
@@ -8,12 +8,13 @@ import {BoardService} from '../board.service';
   styleUrls: ['./big-board.component.scss']
 })
 export class BigBoardComponent implements OnInit {
+  @Input() boardId: Number;
   public board: Board;
 
   constructor(private boardService: BoardService) {
   }
 
   ngOnInit() {
-    this.board = this.boardService.getById(1);
+    this.board = this.boardService.getById(this.boardId);
   }
 }
