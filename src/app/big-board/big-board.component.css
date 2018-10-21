@@ -2,7 +2,8 @@
   padding: 10px; }
 
 .board-card-img {
-  padding: 0.5px; }
+  padding: 0.5px;
+  cursor: pointer; }
 
 .selected-card {
   opacity: 0.25; }
