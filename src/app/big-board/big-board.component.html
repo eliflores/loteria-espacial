@@ -1,7 +1,11 @@
 <div class="big-board">
+  <div *ngIf="isTheGameWon()" class="loteria-msg">
+    <span>🎉 ¡ Lo t e r i a ! 🎉</span>
+  </div>
   <div *ngFor="let cardsLine of board.cards">
   <span *ngFor="let card of cardsLine">
-    <img class="board-card-img" src="assets/images/{{card.imageName}}" height="200" width="150" title="{{card.name}}" (click)="changeStyle($event)">
+    <img class="board-card-img" src="assets/images/{{card.imageName}}" height="200" width="150" title="{{card.name}}"
+         (click)="onCardClick($event)">
   </span>
   </div>
 </div>

@@ -9,17 +9,24 @@ import {BoardService} from '../board.service';
 })
 export class BigBoardComponent implements OnInit {
   @Input() boardId: Number;
-  public board: Board;
+  board: Board;
+  alreadyClickedCards: number;
 
   constructor(private boardService: BoardService) {
   }
 
   ngOnInit() {
     this.board = this.boardService.getById(this.boardId);
+    this.alreadyClickedCards = 0;
   }
 
-  changeStyle(event: MouseEvent) {
+  onCardClick(event: MouseEvent) {
     const element = event.target as HTMLImageElement;
     element.attributes['class'].value = `${element.attributes['class'].value} selected-card`;
+    this.alreadyClickedCards = this.alreadyClickedCards + 1;
+  }
+
+  isTheGameWon() {
+    return this.alreadyClickedCards === 16;
   }
 }
