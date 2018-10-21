@@ -17,4 +17,8 @@ export class BigBoardComponent implements OnInit {
   ngOnInit() {
     this.board = this.boardService.getById(this.boardId);
   }
+
+   changeStyle(event: MouseEvent) {
+    event.target.attributes.class.value = `${event.target.attributes.class.value} selected-card`;
+  }
 }

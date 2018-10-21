@@ -4,4 +4,7 @@
 .board-card-img {
   padding: 0.5px; }
 
+.selected-card {
+  opacity: 0.5; }
+
 /*# sourceMappingURL=big-board.component.css.map */
