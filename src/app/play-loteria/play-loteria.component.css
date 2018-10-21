@@ -1,4 +1,8 @@
 .loteria-game {
   margin-top: 30px; }
 
+.card-deck {
+  padding-left: 200px;
+  padding-top: 100px; }
+
 /*# sourceMappingURL=play-loteria.component.css.map */

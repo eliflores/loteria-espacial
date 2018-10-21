@@ -9,6 +9,7 @@ import { BoardComponent } from './board/board.component';
 import { PlayLoteriaComponent } from './play-loteria/play-loteria.component';
 import { AboutUsComponent } from './about-us/about-us.component';
 import { BigBoardComponent } from './big-board/big-board.component';
+import { CardDeckComponent } from './card-deck/card-deck.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { BigBoardComponent } from './big-board/big-board.component';
     BoardComponent,
     PlayLoteriaComponent,
     AboutUsComponent,
-    BigBoardComponent
+    BigBoardComponent,
+    CardDeckComponent
   ],
   imports: [
     BrowserModule,

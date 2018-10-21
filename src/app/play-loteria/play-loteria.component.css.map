@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,aAAc;EACZ,UAAU,EAAE,IAAI",
+"mappings": "AAAA,aAAc;EACZ,UAAU,EAAE,IAAI;;AAGlB,UAAW;EACT,YAAY,EAAE,KAAK;EACnB,WAAW,EAAE,KAAK",
 "sources": ["play-loteria.component.scss"],
 "names": [],
 "file": "play-loteria.component.css"

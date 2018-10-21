@@ -10,10 +10,10 @@ const nasaImages = require('./nasa-images.json');
   providedIn: 'root'
 })
 export class BackendService {
-  private static cards: Card[] = nasaImages.map(nasaImage => {
+  private readonly static cards: Card[] = nasaImages.map(nasaImage => {
     return new Card(nasaImage.name, nasaImage.description, nasaImage.imageName);
   });
-  private boards: Board[] = [];
+  private readonly boards: Board[] = [];
 
   private static generateBoards() {
     return [
@@ -26,7 +26,7 @@ export class BackendService {
         [this.cards[0], this.cards[9], this.cards[16], this.cards[15]],
         [this.cards[6], this.cards[27], this.cards[29], this.cards[18]],
         [this.cards[13], this.cards[31], this.cards[7], this.cards[4]],
-        [this.cards[5], this.cards[6], this.cards[20], this.cards[2]]]),
+        [this.cards[5], this.cards[1], this.cards[20], this.cards[2]]]),
       new Board([
         [this.cards[9], this.cards[13], this.cards[18], this.cards[15]],
         [this.cards[31], this.cards[14], this.cards[17], this.cards[20]],
@@ -72,6 +72,10 @@ export class BackendService {
   getAll(type: Type<any>): PromiseLike<any[]> {
     if (type === Board) {
       return Promise.resolve<Board[]>(this.boards);
+    }
+
+    if (type === Card) {
+      return Promise.resolve<Card[]>(BackendService.cards);
     }
     const err = new Error('Cannot get object of this type');
     this.logger.error(err);
